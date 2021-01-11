@@ -9,7 +9,7 @@ const loading = document.getElementById('loading');
 const ti2022 = new Date(`August 15 2022 00:00:00`);
 
 // Set background year
-year.innerText = 2022;
+year.innerText = 2021;
 
 // Update countdown time
 function updateCountdown() {
